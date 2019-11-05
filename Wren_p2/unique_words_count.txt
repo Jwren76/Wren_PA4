@@ -1,0 +1,12 @@
+rap: 1
+ton: 1
+trist: 2
+rate: 1
+supple: 1
+run: 3
+tumble: 1
+sun: 1
+twist: 1
+flip: 1
+fun: 2
+fumble: 1
